@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: ScalingLaw We Trust!
+    text: Welcome to our GalaXea AI!
     button: Tell Me More
     buttonlink: "#services"
 
