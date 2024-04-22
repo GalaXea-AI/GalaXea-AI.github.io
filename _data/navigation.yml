@@ -48,8 +48,8 @@ es: &DEFAULT_ES
     #   section: cronologia
     # - title: "Equipo"
     #   section: equipo
-    # - title: "Contáctenos"
-    #   section: contacto
+    - title: "Contáctenos"
+      section: contacto
     # - title: "Fuente de la plantilla"
     #   url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
