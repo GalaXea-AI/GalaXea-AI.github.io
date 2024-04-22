@@ -130,8 +130,8 @@ en: &DEFAULT_EN
   #           icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Join Us"
+    text: "简历投递："
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -153,7 +153,7 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/GalaXea-AI/galaxea.ai
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
