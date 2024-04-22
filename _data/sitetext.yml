@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Join Us"
-    text: "简历投递至邮箱：jianrui.shi@galaxea.ai"
+    text: "简历请投递至邮箱：jianrui.shi@galaxea.ai"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
