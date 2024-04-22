@@ -22,8 +22,8 @@ email      : jianrui.shi@galaxea.ai #this is also the email contact forms will g
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Your Name
 logo:     #optional, defaults to site title
- path: assets/img/GalaXea-AI-LOGO.svg
-  # height: 60 #height in px, defaults to 52px
+ path: assets/img/square-logo.jpg
+ height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
