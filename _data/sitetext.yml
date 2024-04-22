@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    # title: ScalingLaw We Trust!
-    # text: Welcome to our GalaXea AI!
-    button: Join Us
+    title: " "
+    text: " "
+    button: Tell Me More
     buttonlink: "#services"
 
   services:
